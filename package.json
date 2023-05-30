@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dockerode": "^3.3.5",
+    "dotenv": "^16.1.0"
+  }
+}
